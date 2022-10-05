@@ -4,4 +4,6 @@ The word bank is slightly more extensive for this game, meaning some games may b
 
 ## Game screenshots
 
-![](Images/example_game.png)
+![](Images/example_game1.png)
+
+![](Images/example_game2.png)
